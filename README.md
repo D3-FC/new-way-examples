@@ -4,7 +4,7 @@ Hello, Inquiring minds!
 This project aims to search the best new way how to implement modern SPAs.
 
 ## How to work
---
+
 
 We are going to search the best way of developing apps in practice.
 
